@@ -1,7 +1,7 @@
 #!/usr/bin//env ruby
 # This script will greet people and staff
 
-Module GreetingAndFarewell
+module GreetingAndFarewell
 	def name
 		@name ||= "customer who will give me money for some product/s"
 	end
